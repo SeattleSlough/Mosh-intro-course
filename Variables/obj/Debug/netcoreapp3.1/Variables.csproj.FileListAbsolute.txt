@@ -1,0 +1,11 @@
+/Users/michaelmaggs/Development/csharp/moosh_tutorial/Variables/bin/Debug/netcoreapp3.1/Variables
+/Users/michaelmaggs/Development/csharp/moosh_tutorial/Variables/bin/Debug/netcoreapp3.1/Variables.deps.json
+/Users/michaelmaggs/Development/csharp/moosh_tutorial/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.json
+/Users/michaelmaggs/Development/csharp/moosh_tutorial/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.dev.json
+/Users/michaelmaggs/Development/csharp/moosh_tutorial/Variables/bin/Debug/netcoreapp3.1/Variables.dll
+/Users/michaelmaggs/Development/csharp/moosh_tutorial/Variables/bin/Debug/netcoreapp3.1/Variables.pdb
+/Users/michaelmaggs/Development/csharp/moosh_tutorial/Variables/obj/Debug/netcoreapp3.1/Variables.csprojAssemblyReference.cache
+/Users/michaelmaggs/Development/csharp/moosh_tutorial/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfoInputs.cache
+/Users/michaelmaggs/Development/csharp/moosh_tutorial/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfo.cs
+/Users/michaelmaggs/Development/csharp/moosh_tutorial/Variables/obj/Debug/netcoreapp3.1/Variables.dll
+/Users/michaelmaggs/Development/csharp/moosh_tutorial/Variables/obj/Debug/netcoreapp3.1/Variables.pdb
