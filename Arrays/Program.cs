@@ -12,7 +12,13 @@ namespace Arrays
             var flags = new bool[3];
             System.Console.WriteLine(flags[0]);
 
-            var names = new string[3] {"jack", "john", "mary"};
+            var names = new string[] {"jack", "john", "mary"};
+
+            foreach (string name in names)
+            {
+                System.Console.WriteLine(name);
+            }
+            
         }
     }
 }
